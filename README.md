@@ -1,8 +1,10 @@
-# Description
+# Nutrition Data Analysis
+
+## Description
 
 Simple data analysis based on the beginner-friendly datasets.
 
-# Prerequisites
+## Prerequisites
 
 ```python
 import numpy as np
