@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple data analysis based on the beginner-friendly datasets.
+Simple data analysis based on the beginner-friendly cereal datasets.
 
 ## Prerequisites
 
